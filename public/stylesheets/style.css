@@ -1,0 +1,30 @@
+body {
+  padding: 50px;
+  font: 18px "Verdana", Helvetica, sans-serif;
+  width: 900px;
+}
+
+h1 {
+  font: 37px "Tahoma", Helvetica, sans-serif;
+  line-height: 46px;
+  color: #000000;
+}
+h2 {
+  font: 25px "Tahoma", Helvetica, sans-serif;
+  line-height: 38px;
+}
+
+h3 {
+  font: 18px;
+  color: #666;
+}
+a {
+  color: #00B7FF;
+}
+
+p {
+  font: 18px;
+  line-height: 27px;
+  color: #333333;
+}
+
